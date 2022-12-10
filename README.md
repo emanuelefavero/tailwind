@@ -8,7 +8,10 @@ This is an example project that shows how to use Tailwind CSS
 
 ```bash
 npm install
+npm run watch
 ```
+
+- Start live server OR open `index.html` in your browser
 
 ## Resources
 
