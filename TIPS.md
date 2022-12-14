@@ -9,6 +9,12 @@
 - any path (images, etc..) written in the `input.css` (where we write custom CSS) should take into account that it will be started from `main.css` and NOT from input.css as the code will be bundled there
   (e.g. `'../img/image.jpg'`, NOT `'./img/image.jpg'`)
 
+- if you want to use a custom font, you need to add it to the `input.css` file and then add it to the `tailwind.config.js` file under `theme.fontFamily`
+
+- if you want to use a custom color, you need to add it to the `tailwind.config.js` file under `theme.colors`
+
+- to add `js` to your tailwind project, just add it in the same way you would do usually. (e.g. import the script file at the end of the html)
+
 ## Classes
 
 - `bg-gray-100` = background-color: #f7fafc
