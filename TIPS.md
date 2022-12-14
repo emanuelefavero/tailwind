@@ -19,6 +19,13 @@
 - `items-center` = align-items: center
 - `justify-center` = justify-content: center
 - `justify-between` = justify-content: space-between
+- `justify-end` = justify-content: flex-end
+- `justify-around` = justify-content: space-around
+- `flex` = display: flex
+- `flex-1` = flex: 1, _see [Stack Overflow on Flex: 1](https://stackoverflow.com/questions/37386244/what-does-flex-1-mean)_
+- `flex-grow` = flex-grow: 1, the div will grow in the same proportion as the window size
+- `flex-shrink` = flex-shrink: 1, the div will shrink in the same proportion as the window size
+
 - `flex-col-reverse` = flex-direction: column-reverse
 - `md:flex` = display: flex on medium screens and up
 - `hover:text-blue-500` = text-blue-500 on hover
@@ -27,7 +34,9 @@
 - `rounded` = border-radius: 0.25rem
 - `w-1/2` = width: 50%
 - `w-1/3` = width: 33.333333% (useful when you have 3 items)
+- `w-4` = width: 1rem
 - `max-w-md` = max-width: 28rem (28 \* 16 = 448px)
+- `h-8` = height: 2rem
 - `text-center` = text-align: center
 - `text-base` = font-size: 1rem
 - `leading-tight` = line-height: 1.25
