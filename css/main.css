@@ -646,6 +646,10 @@ video {
   text-align: center;
 }
 
+.align-baseline {
+  vertical-align: baseline;
+}
+
 .text-4xl {
   font-size: 2.25rem;
   line-height: 2.5rem;
