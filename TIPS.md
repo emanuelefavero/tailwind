@@ -4,6 +4,11 @@
 
 - always remember to run `npm run watch` or `npx tailwindcss -i ./input.css -o ./css/main.css --watch` so the changes are reflected in the browser
 
+- any custom CSS can be added in `input.css` under `@tailwind` imports (`@tailwind base;` etc.)
+
+- any path (images, etc..) written in the `input.css` (where we write custom CSS) should take into account that it will be started from `main.css` and NOT from input.css as the code will be bundled there
+  (e.g. `'../img/image.jpg'`, NOT `'./img/image.jpg'`)
+
 ## Classes
 
 - `bg-gray-100` = background-color: #f7fafc
