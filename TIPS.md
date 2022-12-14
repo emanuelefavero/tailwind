@@ -8,6 +8,8 @@
 
 - `container` = max-width of 100%
 - `relative` = position: relative
+- `-top-6` = top: -1.5rem
+- `-mt-6` = margin-top: -1.5rem
 - `mx-auto` = margin-left: auto; margin-right: auto;
 - `space-x-6` = margin-left: 1.5rem; margin-right: 1.5rem;
 - `space-y-6` = margin-top: 1.5rem; margin-bottom: 1.5rem;
@@ -22,6 +24,7 @@
 - `rounded-lg` = border-radius: 0.5rem
 - `rounded` = border-radius: 0.25rem
 - `w-1/2` = width: 50%
+- `w-1/3` = width: 33.333333% (useful when you have 3 items)
 - `max-w-md` = max-width: 28rem (28 \* 16 = 448px)
 - `text-center` = text-align: center
 - `text-base` = font-size: 1rem
