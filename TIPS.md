@@ -18,3 +18,4 @@
 - `rounded-full` = border-radius: 9999px
 - `rounded-lg` = border-radius: 0.5rem
 - `rounded` = border-radius: 0.25rem
+- `w-1/2` = width: 50%

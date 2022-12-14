@@ -73,6 +73,8 @@ theme: {
   },
 ```
 
+_Please Note: Check out the [TIPS.md](./TIPS.md) file for some useful tips_
+
 ### Project Screenshot
 
 ![Project Screenshot](./img/screenshot.png?raw=true 'Project Screenshot')
