@@ -2,6 +2,10 @@
 
 This is an example project that shows how to use Tailwind CSS
 
+## Live Demo on Github Pages
+
+- [https://emanuelefavero.github.io/tailwind/](https://emanuelefavero.github.io/tailwind/)
+
 ## Getting Started
 
 - Install dependencies
