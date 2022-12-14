@@ -10,6 +10,7 @@
 - `relative` = position: relative
 - `mx-auto` = margin-left: auto; margin-right: auto;
 - `space-x-6` = margin-left: 1.5rem; margin-right: 1.5rem;
+- `space-y-6` = margin-top: 1.5rem; margin-bottom: 1.5rem;
 - `hidden` = display: none
 - `items-center` = align-items: center
 - `justify-center` = justify-content: center
@@ -23,3 +24,4 @@
 - `w-1/2` = width: 50%
 - `max-w-md` = max-width: 28rem (28 \* 16 = 448px)
 - `text-center` = text-align: center
+- `text-base` = font-size: 1rem
