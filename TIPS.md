@@ -6,6 +6,8 @@
 
 ## Classes
 
+- `bg-gray-100` = background-color: #f7fafc
+- `text-gray-700` = color: #4a5568
 - `container` = max-width of 100%
 - `relative` = position: relative
 - `-top-6` = top: -1.5rem
@@ -28,3 +30,6 @@
 - `max-w-md` = max-width: 28rem (28 \* 16 = 448px)
 - `text-center` = text-align: center
 - `text-base` = font-size: 1rem
+- `leading-tight` = line-height: 1.25
+- `leading-none` = line-height: 1
+- `shadow-2xl` = box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25)
