@@ -72,3 +72,7 @@ theme: {
     },
   },
 ```
+
+### Project Screenshot
+
+![Project Screenshot](./img/screenshot.png?raw=true 'Project Screenshot')
