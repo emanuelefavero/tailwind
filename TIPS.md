@@ -15,6 +15,8 @@
 
 - to add `js` to your tailwind project, just add it in the same way you would do usually. (e.g. import the script file at the end of the html)
 
+- In Tailwind is advised to start mobile first, then add the `md:` prefix to the class to add the styles for medium screens and up.
+
 ## Classes
 
 - `bg-gray-100` = background-color: #f7fafc
