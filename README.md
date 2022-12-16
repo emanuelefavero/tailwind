@@ -17,6 +17,10 @@ npm run watch
 
 - Start live server OR open `index.html` in your browser
 
+### Project Screenshot
+
+![Project Screenshot](./img/screenshot.png?raw=true 'Project Screenshot')
+
 ## Resources
 
 - [Tailwind Install Guide](https://tailwindcss.com/docs/installation) - I've used the Tailwind CLI way to install Tailwind
@@ -78,7 +82,3 @@ theme: {
 ```
 
 _Please Note: Check out the [TIPS.md](./TIPS.md) file for some useful tips_
-
-### Project Screenshot
-
-![Project Screenshot](./img/screenshot.png?raw=true 'Project Screenshot')
